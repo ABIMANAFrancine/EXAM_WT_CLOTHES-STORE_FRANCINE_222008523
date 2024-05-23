@@ -1,0 +1,14 @@
+body {
+    background-image: url("5.jpg");
+    animation: alternate;
+    display: unset;
+  }
+  label{
+    background-color: aqua;
+    color: blue;
+  }
+h2{
+  
+  color: white;
+}
+  
